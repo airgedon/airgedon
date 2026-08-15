@@ -52,4 +52,4 @@ AI 서비스 연동부터 고성능 백엔드 구축, Kubernetes 기반의 클�
 ---
 
 ### 📫 Contact & Links
-* **Email:** [이메일 보내기](mailto:samatkyzyainazik@gmail.com)
+* **Email:** [samatkyzyainazik@gmail.com](mailto:samatkyzyainazik@gmail.com)
